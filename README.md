@@ -38,7 +38,7 @@ Type `help` inside the shell to list commands, `exit` to quit.
 | `tests/` | unit tests and a demo script |
 | `report/` | written report and generated `results.md` |
 
-## Design in one paragraph
+## Design 
 
 Every command is a function `cmd(args, stdin_text) -> (stdout_text, stderr_text, exit_code)`.
 Because all commands look the same, a pipe is just "stdout text of command 1 becomes
