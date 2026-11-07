@@ -1,0 +1,14 @@
+# Test 2 (UNSAFE / DEADLOCKED): P0 -> P1 -> P2 -> P0 circular wait. P3 holds nothing.
+4 3
+Allocation
+1 0 0
+0 1 0
+0 0 1
+0 0 0
+Max
+1 1 0
+0 1 1
+1 0 1
+0 0 0
+Available
+0 0 0

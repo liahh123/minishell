@@ -1,0 +1,12 @@
+# Edge case: nothing is allocated yet
+3 2
+Allocation
+0 0
+0 0
+0 0
+Max
+3 2
+2 2
+1 1
+Available
+2 2

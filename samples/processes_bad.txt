@@ -1,0 +1,2 @@
+# Error case: bad burst time
+P1 0 abc 1

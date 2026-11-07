@@ -1,0 +1,23 @@
+# Demo script: python3 minishell.py tests/shell_demo.msh
+pwd
+mkdir demo_dir
+cd demo_dir
+touch a.txt notes.log
+chmod 755 a.txt
+ls -l
+echo hello > a.txt
+echo more >> a.txt
+cat < a.txt | grep more
+NAME=Ana
+echo "Hello $NAME"
+env
+mkdir x && echo made-x
+rmdir nothere || echo rmdir-failed
+cat nofile 2>&1 | grep nofile
+if test -f a.txt; then echo a.txt-exists; else echo missing; fi
+foobar
+sched rr --quantum 4 ../samples/processes.txt > result.txt
+grep Average result.txt
+deadlock banker ../samples/system_safe.txt --request 1 1 0 2 | grep -E "Decision|Result"
+cd ..
+rm -r demo_dir
