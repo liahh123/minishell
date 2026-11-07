@@ -184,7 +184,7 @@ worked out by hand; the Banker's tests use the well-known textbook example
 
 | Role | Member |
 |---|---|
-| Shell Lead (Module 1, integration) | _name_ |
-| Scheduler Lead (Module 2) | _name_ |
-| Resources Lead (Module 3) | _name_ |
-| Docs and Testing Lead (grep, tests, Module 4, report) | _name_ |
+| Shell Lead (Module 1, integration) | Ronald Sagsagat |
+| Scheduler Lead (Module 2) | Leah Orenza |
+| Resources Lead (Module 3) | Oryza Maize Maligsay |
+| Docs and Testing Lead (grep, tests, Module 4, report) | Tyrone Clyde Buduan |
