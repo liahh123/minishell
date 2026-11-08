@@ -8,6 +8,9 @@ No third-party packages are needed. Only the standard library is used
 (`re` for regular expressions; basic file I/O). All scheduling and deadlock
 algorithms are written by us from scratch.
 
+# Here is the link for our video presentation:
+https://drive.google.com/drive/folders/1ODKvSn1WMztgvAnQwgxccgoV8AynwvJf?usp=sharing
+
 ## Build and run
 
 Requires Python 3.8 or newer. There is nothing to compile.
