@@ -1,8 +1,8 @@
 # MiniShell - CmpSc 123 Group Project
 
-MiniShell is a small Bash-like shell written in **Python 3** that also contains
-two operating-system simulators: a **CPU scheduler** (six algorithms) and a
-**deadlock simulator** (detection + Banker's algorithm).
+MiniShell is a small Bash-like shell written in Python 3 that also contains
+two operating-system simulators: a CPU scheduler (six algorithms) and a
+deadlock simulator (detection + Banker's algorithm).
 
 No third-party packages are needed. Only the standard library is used
 (`re` for regular expressions; basic file I/O). All scheduling and deadlock
